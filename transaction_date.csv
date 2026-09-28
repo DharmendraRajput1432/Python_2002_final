@@ -1,0 +1,101 @@
+Transaction ID,Date,User ID,Book Title,Genre,Borrowing Duration (Days)
+T0001,2024-01-08,U001,Clean Code,Technology,11
+T0002,2024-01-13,U008,Python Crash Course,Technology,4
+T0003,2024-01-17,U019,The Great Gatsby,Fiction,4
+T0004,2024-01-17,U002,India After Gandhi,History,12
+T0005,2024-01-17,U015,To Kill a Mockingbird,Fiction,13
+T0006,2024-01-20,U025,Harry Potter and the Sorcerer's Stone,Fantasy,
+T0007,2024-01-22,U024,Atomic Habits,Self-Help,8
+T0008,2024-01-24,U009,1984,Fiction,18
+T0009,,U013,Atomic Habits,Self-Help,18
+T0010,2024-01-28,U029,Clean Code,Technology,20
+T0011,2024-01-30,U028,Clean Code,Technology,18
+T0012,2024-01-31,U019,The Great Gatsby,Fiction,12
+T0013,2024-01-31,U030,Ikigai,Self-Help,15
+T0014,2024-01-31,U018,Clean Code,Technology,4
+T0015,2024-02-01,U013,The Great Gatsby,Fiction,17
+T0016,2024-02-02,,Pride and Prejudice,Fiction,7
+T0017,2024-02-03,U024,Atomic Habits,Self-Help,10
+T0018,2024-02-04,U010,Python Crash Course,Technology,16
+T0019,2024-02-05,U014,Atomic Habits,Self-Help,9
+T0020,2024-02-05,U015,The Great Gatsby,Fiction,10
+T0021,2024-02-06,U004,The Selfish Gene,Science,13
+T0022,2024-02-07,U014,The Selfish Gene,Science,20
+T0023,2024-02-08,U003,Harry Potter and the Sorcerer's Stone,Fantasy,8
+T0024,2024-02-08,U018,,Fiction,6
+T0025,2024-02-08,U017,The Great Gatsby,Fiction,19
+T0026,2024-02-08,U006,Introduction to Algorithms,Technology,7
+T0027,2024-02-09,U023,A Game of Thrones,Fantasy,14
+T0028,2024-02-18,U009,1984,Fiction,4
+T0029,2024-02-19,U026,Introduction to Algorithms,Technology,10
+T0030,2024-02-19,U023,Clean Code,Technology,14
+T0031,2024-02-21,U016,Atomic Habits,Self-Help,8
+T0032,2024-02-21,U027,A Game of Thrones,,17
+T0033,2024-02-22,U017,Python Crash Course,Technology,14
+T0034,2024-02-23,U015,1984,Fiction,8
+T0035,2024-02-24,U001,Ikigai,Self-Help,11
+T0036,2024-02-28,U007,Ikigai,Self-Help,19
+T0037,2024-02-28,U016,Pride and Prejudice,Fiction,9
+T0038,2024-03-07,U017,India After Gandhi,History,14
+T0039,2024-03-07,U030,India After Gandhi,History,20
+T0040,2024-03-11,U015,Pride and Prejudice,Fiction,19
+T0041,2024-03-17,,The Great Gatsby,Fiction,18
+T0042,2024-03-17,U021,Atomic Habits,Self-Help,5
+T0043,2024-03-21,U015,Clean Code,Technology,21
+T0044,2024-03-21,U011,Python Crash Course,Technology,14
+T0045,2024-03-29,U020,"Guns, Germs, and Steel",History,
+T0046,2024-03-30,U012,Clean Code,Technology,5
+T0047,2024-03-31,U029,1984,Fiction,17
+T0048,2024-04-01,U025,A Game of Thrones,Fantasy,10
+T0049,2024-04-02,U010,A Game of Thrones,Fantasy,10
+T0050,2024-04-08,U029,The Selfish Gene,Science,14
+T0051,2024-04-11,U015,Deep Work,Self-Help,15
+T0052,2024-04-12,U013,Sapiens,Science,6
+T0053,,U002,Clean Code,Technology,9
+T0054,2024-04-17,U006,The Great Gatsby,Fiction,13
+T0055,2024-04-22,U025,To Kill a Mockingbird,Fiction,8
+T0056,2024-04-24,U010,A Game of Thrones,Fantasy,5
+T0057,2024-04-28,U012,To Kill a Mockingbird,Fiction,8
+T0058,2024-04-29,U016,Harry Potter and the Sorcerer's Stone,Fantasy,18
+T0059,2024-04-29,U026,Python Crash Course,Technology,7
+T0060,2024-05-02,U027,Atomic Habits,,8
+T0061,2024-05-02,U017,Python Crash Course,Technology,10
+T0062,2024-05-03,U020,The Selfish Gene,Science,3
+T0063,2024-05-05,U014,Pride and Prejudice,Fiction,4
+T0064,2024-05-06,U002,Introduction to Algorithms,Technology,9
+T0065,2024-05-07,U022,Introduction to Algorithms,Technology,20
+T0066,2024-05-07,U003,Sapiens,Science,8
+T0067,2024-05-08,U011,,Technology,10
+T0068,2024-05-08,U008,Pride and Prejudice,Fiction,21
+T0069,2024-05-09,U015,Atomic Habits,Self-Help,20
+T0070,2024-05-09,U020,Introduction to Algorithms,Technology,19
+T0071,2024-05-11,U020,India After Gandhi,History,4
+T0072,2024-05-12,U014,India After Gandhi,History,
+T0073,2024-05-12,U017,The Selfish Gene,Science,20
+T0074,2024-05-19,U030,Pride and Prejudice,Fiction,3
+T0075,2024-05-19,U014,The Selfish Gene,Science,7
+T0076,2024-05-20,U009,Clean Code,Technology,7
+T0077,2024-05-20,U009,Ikigai,Self-Help,16
+T0078,2024-05-20,,Pride and Prejudice,Fiction,3
+T0079,2024-05-24,U004,1984,Fiction,10
+T0080,2024-05-24,U011,Cosmos,Science,7
+T0081,2024-05-28,U026,Python Crash Course,Technology,17
+T0082,2024-05-29,U002,"Guns, Germs, and Steel",History,21
+T0083,2024-05-30,U006,Clean Code,Technology,11
+T0084,2024-06-01,U016,Introduction to Algorithms,Technology,14
+T0085,2024-06-02,U002,The Great Gatsby,Fiction,6
+T0086,2024-06-06,U001,Harry Potter and the Sorcerer's Stone,Fantasy,5
+T0087,2024-06-06,U013,A Game of Thrones,Fantasy,7
+T0088,2024-06-11,U011,Clean Code,Technology,5
+T0089,2024-06-12,U007,Python Crash Course,Technology,14
+T0090,2024-06-15,U004,To Kill a Mockingbird,Fiction,19
+T0091,2024-06-16,U012,Clean Code,,5
+T0092,2024-06-17,U008,Pride and Prejudice,Fiction,3
+T0093,2024-06-19,U027,Pride and Prejudice,Fiction,10
+T0094,2024-06-20,U008,The Selfish Gene,Science,16
+T0095,2024-06-20,U010,1984,Fiction,6
+T0096,2024-06-23,U006,Python Crash Course,Technology,
+T0097,2024-06-23,U027,The Diary of a Young Girl,History,17
+T0098,2024-06-23,U029,Harry Potter and the Sorcerer's Stone,Fantasy,15
+T0099,2024-06-23,U026,Clean Code,Technology,20
+T0100,2024-06-27,U025,Deep Work,Self-Help,10
